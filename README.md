@@ -3,4 +3,6 @@ Code and data for Figures 4 & 5 of the paper "A general framework for stock dyna
 
 For inquiries please contact dirk.lauinger@epfl.ch
 
-October 2020
+December 2020
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4110806.svg)](https://doi.org/10.5281/zenodo.4110806)
