@@ -5,4 +5,4 @@ For inquiries please contact dirk.lauinger@epfl.ch
 
 February 2021
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4110806.svg)](https://doi.org/10.5281/zenodo.4110806)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4110805.svg)](https://doi.org/10.5281/zenodo.4110805)
