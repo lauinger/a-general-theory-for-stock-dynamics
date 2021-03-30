@@ -1,5 +1,5 @@
 # A General Framework for Stock Dynamics of Populations and Built and Natural Environments
-Code and data for Figures 5 & 6 of the paper "A general framework for stock dynamics of populations and built and natural environments" by D. Lauinger, R.G. Billy, F. Vasquéz, and D.B. Müller (forthcoming in the Journal of Industrial Ecology).
+Code and data for Figures 5 & 6 of the paper "[A general framework for stock dynamics of populations and built and natural environments](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13117)" by D. Lauinger, R.G. Billy, F. Vasquéz, and D.B. Müller (forthcoming in the Journal of Industrial Ecology).
 
 For inquiries please contact dirk.lauinger@epfl.ch
 
